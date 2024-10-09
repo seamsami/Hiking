@@ -1,0 +1,297 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: fit-content;
+    width: fit-content;
+}
+div.header-area{
+    background-image: url(img/Background.png);
+}
+div.header {
+    display: flex;
+}
+
+div.header > div.menue > ul > li > a{
+    text-decoration: none;
+    margin: 30px;
+    color: #3E82FC;
+}
+div.header > div.menue > ul > li {
+    list-style: none;
+    
+}
+div.header > div.menue > ul{
+    display: flex;
+}
+div.header > div.logo > img{
+    margin-right: 460px;
+    display: inline-block;
+    padding-left: 100px ;
+}
+div.details{
+    display: flex;
+}
+div.details > div.text{
+    width: 520px;
+    padding-right: 90px;
+    padding-left: 100px;
+}
+div.details > div.text > p.a{
+    margin-bottom: 5px;
+}
+div.details > div.text > a.a{
+    text-decoration: none;
+    border-radius: 50px;
+    background:#3E82FC;
+    padding: 12px;
+    color: aliceblue;
+    margin-right: 15px;
+
+}
+div.details > div.text > a.b{
+    text-decoration: none;
+    border-radius: 50px;
+    width: 118px;
+    height: 20px;
+    border: 2px solid #315cfd;
+    border-color: #3E82FC;
+    padding: 10px;
+    color: #3E82FC;
+}
+div.details > div.image > img{
+    width: 488px;
+    height: 662px;
+    margin-top: 50px;
+}
+div.header-area > div.services{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+div.header-area > div.services > div.single-services1{
+    width: 268px;
+    height: 250px; 
+    margin-top: 66px;
+    margin-bottom: 66px;
+    margin-left: 66px;
+}
+div.header-area > div.services > div.single-services1 > a{
+    text-decoration: none;
+    color: #FE2C54;
+}
+div.header-area > div.services > div.single-services2{
+    width: 268px;
+    height: 250px; 
+    margin-top: 66px;
+    margin-bottom: 66px;
+    margin-left: 66px;
+}
+div.header-area > div.services > div.single-services2 > a{
+    text-decoration: none;
+    color: #FE2C54;
+}
+div.header-area > div.services > div.single-services3{
+    width: 268px;
+    height: 250px; 
+    margin-top: 66px;
+    margin-bottom: 66px;
+    margin-left: 66px;
+}
+div.header-area > div.services > div.single-services3 > a{
+    text-decoration: none;
+    color: #FE2C54;
+}
+p.ab{
+    text-align: center;
+    margin-bottom: 56px;
+}
+p.ab > a{
+    text-decoration: none;
+    font-style: italic ;
+    color: #FE2C54;
+}
+div.sec1{
+    display: flex;
+}
+div.middle-area > div.section1{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-top: 200px;
+    background-image: url(img/texture\ background.png);
+}
+div.middle-area > div.section1 > div.img{
+    margin-top: 55px;
+    margin-right: 20px;
+}
+div.middle-area > div.section1 > div.text{
+    width: 400px;
+    height: 234px;
+    padding-right: 90px;
+    padding-left: 100px;
+    margin-left: 20px;
+    
+}
+div.middle-area > div.section1 > div.text > p.a{
+    margin-bottom: 10px;
+}
+div.middle-area > div.section1 > div.text > a{
+    text-decoration: none;
+    border-radius: 50px;
+    background:#3E82FC;
+    padding: 12px;
+    color: aliceblue;
+    margin-right: 15px;
+}
+div.middle-area > div.section1 > div.text > p{
+    margin-bottom: 30px;
+}
+div.middle-area > div.trust-section > div.company-logo > div.img-upper{
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+div.middle-area > div.trust-section > div.company-logo > div.img-upper > img{
+    margin-left: 60px;
+}
+div.middle-area > div.trust-section > div.company-logo > div.image-lower{
+    margin-left: 400px;
+}
+div.middle-area > div.trust-section > div.company-logo > div.image-lower > img{
+    margin-left: 60px;
+}
+div.section2{
+    display: flex;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    background-image: url(img/texture\ background\ \(1\).png);
+}
+div.sec2{
+    display: flex;
+}
+div.middle-below-area > div.section2 > div.text{
+    width: 520px;
+    padding-right: 90px;
+    padding-left: 100px;
+}
+div.middle-below-area > div.section2 > div.text > p.a{
+    margin-bottom: 10px;
+}
+div.middle-below-area > div.section2 > div.text > p.b{
+    margin-bottom: 30px;
+    width: 374px;
+}
+div.middle-below-area > div.section2 > div.text > a{
+    text-decoration: none;
+    border-radius: 50px;
+    background:#3E82FC;
+    padding: 12px;
+    color: aliceblue;
+    margin-right: 15px;
+}
+div.middle-below-area > div.section3{
+    display: flex;
+    margin-left: 100px;
+    background-image: url(img/texture\ background\ \(2\).png);
+}
+div.sec3{
+    display: flex;
+}
+div.middle-below-area > div.section3 > div.text{
+    width: 500px;
+    height: 234px;
+    padding-right: 90px;
+    padding-left: 100px;
+    margin-left: 20px;
+}
+div.middle-below-area > div.section3 > div.image{
+    margin-right: 20px;
+}
+div.middle-below-area > div.section3 > div.text > p.a{
+    margin-bottom: 10px;
+}
+div.middle-below-area > div.section3 > div.text > p.b{
+    margin-bottom: 30px;
+    width: 374px;
+}
+div.middle-below-area > div.section3 > div.text > a{
+    text-decoration: none;
+    border-radius: 50px;
+    background:#3E82FC;
+    padding: 12px;
+    color: aliceblue;
+    margin-right: 15px;
+}
+div.subscribe {
+    padding-bottom: 200px;
+}
+div.subscribe > h2{
+    margin-left: 570px;
+    width: 300px;
+}
+div.subscribe > p{
+    width: 450px;
+    margin-left: 500px;
+}
+div.subscribe > form > input.eml{
+    display: inline-block;
+    margin-left: 500px;
+    border-radius: 50px;
+    padding: 12px;
+    border-color: #3E82FC;
+    width: 23%;
+}
+div.subscribe > form > input.btn{
+    display: inline-block;
+    margin-left: 10px;
+    border-radius: 50px;
+    padding: 12px;
+    border-color: #3E82FC;
+    background-color: #3E82FC;
+    color: rgb(255, 255, 255);
+}
+div.footer-area{
+    background-color: #ECF3FF;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+div.footer{
+    display: flex;
+}
+div.footer-logo{
+    margin-left: 100px;
+    margin-right: 470px;
+}
+div.footer-logo > p{
+    width: 200px;
+    margin-bottom: 30px;
+}
+div.frame21 > ul > li{
+    list-style: none;
+    margin-bottom: 30px;
+    margin-right: 50px;
+}
+div.frame21 > ul > li> a{
+    text-decoration: none;
+    color: #3E82FC;
+}
+div.frame22 > ul > li{
+    list-style: none;
+    margin-bottom: 30px;
+    margin-right: 50px;
+}
+div.frame22 > ul > li> a{
+    text-decoration: none;
+    color: #3E82FC;
+}
+div.frame23 > ul > li{
+    list-style: none;
+    margin-bottom: 30px;
+}
+div.frame23 > ul > li> a{
+    text-decoration: none;
+    color: #3E82FC;
+}
+p.copyrite{
+    text-align: center;
+    margin-top: 100px;
+}
